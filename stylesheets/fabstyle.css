@@ -1,0 +1,11 @@
+body { background:#bb6633 url(http://laportepresbyterianfinearts.org/graphics/burlbg.jpg);margin-bottom:50px;margin-top:50px;margin-left:50px;margin-right:70px;font-family:arial,helvetica,sans-serif }
+.indent { display:block;margin-left:25px}
+.tab { text-indent:25px }
+.art { float:left;margin-right:10px }
+#mat { display:block;min-width:920px;background:#fff9e0;border:ridge 10px #dfc53b }
+#head { width:100%;border-bottom:double 5px #cc9933 }
+#head-left { text-align:center;vertical-align:middle;font-size:250%;width:350px }
+#head-right { text-align:center;vertical-align:middle;font-size:150%;width:350px }
+#main { display:block;margin-left:auto;margin-right:auto;width:900px;min-height:600px;background:#ffffff;padding:10px }
+#menu { width:185px;float:left }
+#text { float:left }

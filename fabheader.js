@@ -1,0 +1,1 @@
+document.write('<table id="head"><tr><td id="head-left">Fine Arts Board</td><td align="center"><img src="http://laportepresbyterianfinearts.org/graphics/fablogo.jpg" alt="Fine Arts Series Logo" width=149px height=150px /></td><td id="head-right">The Presbyterian Church<br />of La Porte</td></tr></table>');
